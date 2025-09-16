@@ -1,0 +1,16 @@
+[package]
+name = "blackchain-based-voting-on-awards"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xe6195f610ece3ab84ef00b154de9bcb482b6ce5abb2ae880b7a1b42ed169dc22"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
