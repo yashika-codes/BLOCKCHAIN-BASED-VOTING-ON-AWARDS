@@ -38,7 +38,7 @@ Entertainment, media, and fan choice awards
 
 Non-profit organization elections
 
-TRANSACTION #https://explorer.aptoslabs.com/txn/0xcf0c86fc8ed52848279e965cacfe7bffd3fcd455a0efcd314cc897aed96596ef?network=devnet
+TRANSACTION #0xe6195f610ece3ab84ef00b154de9bcb482b6ce5abb2ae880b7a1b42ed169dc22
 
 <img width="1366" height="720" alt="Screenshot 2025-09-16 125814" src="https://github.com/user-attachments/assets/f82063be-fcbc-464a-a546-6cb4b7fd2c09" />
 <img width="1366" height="720" alt="Screenshot 2025-09-16 125755" src="https://github.com/user-attachments/assets/24651022-36d0-4693-aaaf-68d9fab37847" />
